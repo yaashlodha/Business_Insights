@@ -1,0 +1,6 @@
+date,product,category,quantity_sold,revenue,profit
+2024-01-01,Laptop,Electronics,5,5000,1000
+2024-01-02,Phone,Electronics,10,7000,2000
+2024-01-03,Headphones,Accessories,15,1500,500
+2024-01-04,Coffee Maker,Home,8,3200,1200
+2024-01-05,Keyboard,Accessories,12,2400,800
